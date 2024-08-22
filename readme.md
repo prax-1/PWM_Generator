@@ -11,7 +11,7 @@ This project demonstrates the generation of a PWM (Pulse Width Modulation) signa
 
 ## Circuit Description
 
-![Circuit Diagram](/pic1.png)
+![Circuit Diagram](/image.png)
 ### PWM Signal Generation
 The 555 Timer IC is configured in astable mode, where it generates a continuous square wave output. The duty cycle of this output signal can be adjusted, which in turn controls the speed of the DC motor.
 
